@@ -1,1 +1,1 @@
-# sample programs run using g++ compiler in linux
+#execute using g++ compiler in linux
