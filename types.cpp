@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> // datatype and declarations
 using namespace std;
 #define end } ;// defining end as } closing braces. so it can repaced with end in the prg.
 void Bool(){
